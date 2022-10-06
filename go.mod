@@ -1,4 +1,4 @@
-module github.com/JeffJiang620/anyu_logger
+module github.com/anyufly/logger
 
 go 1.19
 
